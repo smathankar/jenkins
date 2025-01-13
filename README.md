@@ -1,3 +1,9 @@
+### Download the Jenkins MSI and Java JDK Zip File:
+```
+https://www.jenkins.io/doc/book/installing/windows/
+https://www.oracle.com/in/java/technologies/downloads/
+```
+
 ### How Jenkins uses SSL cert and key to connect with internet over HTTPS:
 ```
 openssl genpkey -algorithm RSA -out jenkins.key
